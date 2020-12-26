@@ -59,5 +59,6 @@ a, a:hover {
   }
 
   .carousel {
-      border: solid #5637dd;
+      border: solid #585858;
+      width:600px;
   }
